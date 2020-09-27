@@ -1,0 +1,5 @@
+﻿  CMP1002 - Term Project.cpp
+C:\Users\kutay\source\repos\CMP1002 - Term Project\CMP1002 - Term Project\CMP1002 - Term Project.cpp(59,10): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutay\source\repos\CMP1002 - Term Project\CMP1002 - Term Project\CMP1002 - Term Project.cpp(83,10): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kutay\source\repos\CMP1002 - Term Project\CMP1002 - Term Project\CMP1002 - Term Project.cpp(452,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  CMP1002 - Term Project.vcxproj -> C:\Users\kutay\source\repos\CMP1002 - Term Project\Debug\CMP1002 - Term Project.exe

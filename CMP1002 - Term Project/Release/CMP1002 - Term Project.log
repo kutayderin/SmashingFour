@@ -1,0 +1,9 @@
+﻿  CMP1002 - Term Project.cpp
+C:\Users\kutay\source\repos\CMP1002 - Term Project\CMP1002 - Term Project\CMP1002 - Term Project.cpp(57,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\kutay\source\repos\CMP1002 - Term Project\CMP1002 - Term Project\CMP1002 - Term Project.cpp(81,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\kutay\source\repos\CMP1002 - Term Project\CMP1002 - Term Project\CMP1002 - Term Project.cpp(450,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CMP1002 - Term Project.vcxproj -> C:\Users\kutay\source\repos\CMP1002 - Term Project\Release\CMP1002 - Term Project.exe
