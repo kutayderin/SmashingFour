@@ -1,2 +1,2 @@
 # SmashingFour
-A console game in C++ for school project.
+A console game in C++.
